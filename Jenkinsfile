@@ -5,7 +5,7 @@ pipeline {
 
 environment {
     registryCredentials = 'docker'
-    registry = 'bjgomes/tomcat'
+    registry = 'vmaharaj/tomcat'
 }
 
     stages {
